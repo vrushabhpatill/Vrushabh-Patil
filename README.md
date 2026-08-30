@@ -17,5 +17,3 @@ images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981e
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vrushabhpatil&show_icons=true&locale=en" alt="vrushabhpatil" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vrushabhpatil&" alt="vrushabhpatil" /></p>
-
